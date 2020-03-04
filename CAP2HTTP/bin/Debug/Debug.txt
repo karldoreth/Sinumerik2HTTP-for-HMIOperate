@@ -1,0 +1,96 @@
+18.04.2016 18:29:08; Befehl in Browser eingeben
+18.04.2016 18:29:08; HTTP Einsatzbereit...
+18.04.2016 18:35:06; Befehl in Browser eingeben
+18.04.2016 18:35:06; HTTP Einsatzbereit...
+18.04.2016 19:13:10; Befehl in Browser eingeben
+18.04.2016 19:13:10; HTTP Einsatzbereit...
+18.04.2016 19:24:34; Programmstart
+18.04.2016 19:24:34; Bereich HTTP
+18.04.2016 19:24:35; HTTP Einsatzbereit...
+18.04.2016 19:24:36; Bereich CAP
+18.04.2016 19:28:51; Programmstart
+18.04.2016 19:28:52; Bereich HTTP
+18.04.2016 19:28:52; HTTP Einsatzbereit...
+18.04.2016 19:28:52; Bereich CAP
+18.04.2016 19:30:53; Programmstart
+18.04.2016 19:30:54; Starte Listener
+18.04.2016 19:30:55; Bereich HTTP
+18.04.2016 19:38:12; Programmstart
+18.04.2016 19:38:13; Starte Listener
+18.04.2016 19:38:14; HTTP Einsatzbereit...
+18.04.2016 19:45:18; Programmstart
+18.04.2016 19:45:19; Starte Listener
+18.04.2016 19:45:19; HTTP Einsatzbereit...
+18.04.2016 19:45:20; Bereich CAP
+19.04.2016 19:10:54; Programmstart
+19.04.2016 19:10:54; Starte Listener
+19.04.2016 19:10:54; HTTP Einsatzbereit...
+19.04.2016 19:10:54; Bereich CAP
+19.04.2016 19:11:30; Programmstart
+19.04.2016 19:11:30; Starte Listener
+19.04.2016 19:11:30; HTTP Einsatzbereit...
+19.04.2016 19:11:30; Bereich CAP
+19.04.2016 19:11:42; Sinumerik Operate Option P66 missing !
+19.04.2016 19:12:10; Programmstart
+19.04.2016 19:12:10; Starte Listener
+19.04.2016 19:12:10; HTTP Einsatzbereit...
+19.04.2016 19:12:10; Bereich CAP
+19.04.2016 19:12:26; CAP Einsatzbereit...
+19.04.2016 19:12:26; Warte auf Anfrage...
+19.04.2016 19:14:35; Programmstart
+19.04.2016 19:14:35; Starte Listener
+19.04.2016 19:14:35; HTTP Einsatzbereit...
+19.04.2016 19:14:35; Bereich CAP
+19.04.2016 19:14:47; CAP Einsatzbereit...
+19.04.2016 19:14:47; Warte auf Anfrage...
+19.04.2016 19:15:33; Abfrage
+19.04.2016 19:15:33; Anfrage
+19.04.2016 19:15:33; Lese
+19.04.2016 19:15:33; DataSvcException: ErrorNr: -2144337903 ; Message: Read() failed: Variablename not known by cap, item name = test
+19.04.2016 19:15:33; Warte auf Anfrage...
+19.04.2016 19:15:33; Abfrage
+19.04.2016 19:15:33; Der Index und die Anzahl müssen sich auf eine Position in der Zeichenfolge beziehen.
+Parametername: count
+19.04.2016 19:15:33; Der Index und die Anzahl müssen sich auf eine Position in der Zeichenfolge beziehen.
+Parametername: count
+19.04.2016 19:15:33; Warte auf Anfrage...
+19.04.2016 19:15:33; Abfrage
+19.04.2016 19:15:33; Der Index und die Anzahl müssen sich auf eine Position in der Zeichenfolge beziehen.
+Parametername: count
+19.04.2016 19:15:33; Der Index und die Anzahl müssen sich auf eine Position in der Zeichenfolge beziehen.
+Parametername: count
+19.04.2016 19:15:33; Warte auf Anfrage...
+19.04.2016 19:15:49; Abfrage
+19.04.2016 19:15:49; Anfrage
+19.04.2016 19:15:49; Lese
+19.04.2016 19:15:49; DataSvcException: ErrorNr: -2144337903 ; Message: Read() failed: Variablename not known by cap, item name = test
+19.04.2016 19:15:49; Warte auf Anfrage...
+19.04.2016 19:15:49; Abfrage
+19.04.2016 19:15:49; Anfrage
+19.04.2016 19:15:49; Lese
+19.04.2016 19:15:49; DataSvcException: ErrorNr: -2144337903 ; Message: Read() failed: Variablename not known by cap, item name = test
+19.04.2016 19:15:49; Warte auf Anfrage...
+19.04.2016 19:16:15; Abfrage
+19.04.2016 19:16:15; Anfrage
+19.04.2016 19:16:15; Lese
+19.04.2016 19:16:15; DataSvcException: ErrorNr: -2144337903 ; Message: Read() failed: Variablename not known by cap, item name = test
+19.04.2016 19:16:15; Warte auf Anfrage...
+19.04.2016 19:16:31; Abfrage
+19.04.2016 19:16:31; Anfrage
+19.04.2016 19:16:31; Lese
+19.04.2016 19:16:31; Warte auf Anfrage...
+19.04.2016 19:16:37; Abfrage
+19.04.2016 19:16:37; Anfrage
+19.04.2016 19:16:37; Lese
+19.04.2016 19:16:37; Warte auf Anfrage...
+19.04.2016 19:16:54; Abfrage
+19.04.2016 19:16:54; Anfrage
+19.04.2016 19:16:54;  Schreibe
+19.04.2016 19:16:54; Warte auf Anfrage...
+19.04.2016 19:18:38; Programmstart
+19.04.2016 19:18:38; Starte Listener
+19.04.2016 19:18:38; HTTP Einsatzbereit...
+19.04.2016 19:18:48; Programmstart
+19.04.2016 19:18:48; Starte Listener
+19.04.2016 19:18:48; HTTP Einsatzbereit...
+19.04.2016 19:18:51; Sinumerik Operate Option P66 missing !

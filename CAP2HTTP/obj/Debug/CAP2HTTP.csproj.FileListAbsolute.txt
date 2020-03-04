@@ -1,0 +1,6 @@
+C:\Dokumente und Einstellungen\Administrator\Desktop\CAP2HTTP\CAP2HTTP\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Administrator\Desktop\CAP2HTTP\CAP2HTTP\bin\Debug\CAP2HTTP.exe
+C:\Dokumente und Einstellungen\Administrator\Desktop\CAP2HTTP\CAP2HTTP\bin\Debug\CAP2HTTP.pdb
+C:\Dokumente und Einstellungen\Administrator\Desktop\CAP2HTTP\CAP2HTTP\obj\Debug\CAP2HTTP.exe
+C:\Dokumente und Einstellungen\Administrator\Desktop\CAP2HTTP\CAP2HTTP\obj\Debug\CAP2HTTP.pdb
+C:\Dokumente und Einstellungen\Administrator\Desktop\CAP2HTTP\CAP2HTTP\bin\Debug\settings.ini
